@@ -1,11 +1,5 @@
 ## Olá eu sou o Rodrigo Paes, Seja bem vindo!
 
-- 👋 Hi, I’m Rodrigo Paes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Contact: rodrigopaesdev@gmail.com
-
 <div style="display: inline_block">
   <a href="https://github.com/rodrigopaesmk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopaesmk&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
