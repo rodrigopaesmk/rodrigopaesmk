@@ -1,7 +1,7 @@
 # 👋 Hey! I'm Rodrigo Paes
   
 
-#🌍 About Me:
+#🌍 About Me
 💻 I have over 5 years of experience creating digital solutions for companies and freelancers.  
 📍 I am currently living in Salvador, Bahia, Brazil.
 
